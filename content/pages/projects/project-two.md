@@ -5,7 +5,7 @@ colors: colors-a
 date: '2021-12-20'
 client: Awesome client
 description: >-
-  Simple anding page and picture galleries as a portfolio for an actor and
+  Simple landing page, about page, and picture galleries for an actor and
   director
 featuredImage:
   type: ImageBlock
