@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Jeff Daniel Philips
 colors: colors-a
-date: '2021-12-20'
+date: ''
 client: Long-term Client
 description: >-
   Simple landing page, about page, and picture galleries for an actor and
