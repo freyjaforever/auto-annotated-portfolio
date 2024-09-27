@@ -4,7 +4,7 @@ title: Landing
 sections:
   - type: LabelsSection
     title: Skills
-    subtitle: The section subtitle
+    subtitle: to help you thrive
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
