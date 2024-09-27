@@ -7,7 +7,7 @@ client: Awesome client
 description: Stripped-down art portfolio for illustrator
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/Screen Shot 2024-09-27 at 4.11.06 PM.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
