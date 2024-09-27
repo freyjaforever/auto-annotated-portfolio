@@ -1,14 +1,15 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: Jeff Daniel Philips
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  Simple landing page, about page, and picture galleries for an actor and
+  director
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Screen Shot 2024-09-27 at 4.04.48 PM.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
