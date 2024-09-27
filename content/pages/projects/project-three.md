@@ -9,7 +9,7 @@ description: >-
   storefront
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Screen Shot 2024-09-27 at 4.06.51 PM.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
