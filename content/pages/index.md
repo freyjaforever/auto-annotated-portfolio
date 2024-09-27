@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: 'I’m a developer, digital artist, It consultant and creative problem solver'
     subtitle: ''
     styles:
