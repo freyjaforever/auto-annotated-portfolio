@@ -22,13 +22,6 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
                 "altText": "Instagram",
                 "label": "Instagram",
                 "url": "https://instagram.com/freyjaacassi",
