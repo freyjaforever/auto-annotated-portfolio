@@ -347,7 +347,7 @@ sections:
           name: email-address
           label: Email
           hideLabel: true
-          placeholder: your email address
+          placeholder: your email address here
           width: full
           isRequired: false
         - type: TextareaFormControl
