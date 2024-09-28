@@ -138,6 +138,9 @@ sections:
         label: HTML5
         url: ''
       - type: Label
+        label: SEO
+        url: ''
+      - type: Label
         label: CSS
         url: ''
       - type: Label
@@ -148,9 +151,6 @@ sections:
         url: ''
       - type: Label
         label: Blender
-        url: ''
-      - type: Label
-        label: SEO
         url: ''
   - type: DividerSection
     styles:
