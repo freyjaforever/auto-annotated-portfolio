@@ -13,11 +13,13 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ## Hello I'm Freyja. I solve your tech problems for cheap. i'm like just a
+      girl whos around to answer questions and stuff. 
+
+
+      And keep your internet presence squeaky clean and presentable.
+
     styles:
       self:
         height: auto
@@ -62,7 +64,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: ''
+    subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
         url: /images/Untitled.png
@@ -108,7 +110,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-    title: 'I worked with these folks:'
+    title: ''
   - type: DividerSection
     styles:
       self:
@@ -128,19 +130,33 @@ sections:
       - type: Label
         label: 'WEB 1, 2, 3'
       - type: Label
-        label: React
+        label: Wordpress
       - type: Label
-        label: Microsoft Office
+        label: SquareSpace
       - type: Label
-        label: Next.js
+        label: Cargo
+        url: ''
       - type: Label
-        label: Netlify
+        label: HTML5
+        url: ''
       - type: Label
-        label: Pancakes
+        label: SEO
+        url: ''
       - type: Label
-        label: C++
+        label: CSS
+        url: ''
       - type: Label
-        label: Swift
+        label: SSL Security
+        url: ''
+      - type: Label
+        label: Adobe Suite
+        url: ''
+      - type: Label
+        label: Blender
+        url: ''
+      - type: Label
+        label: Canva
+        url: ''
   - type: DividerSection
     styles:
       self:
@@ -210,119 +226,8 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-    subtitle: ''
-    title: 'You can find me here:'
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: TextSection
-    variant: variant-a
-    subtitle: 'Contact:'
-    colors: colors-f
-    text: |
-      <freyja4evr@gmail.com>
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: FeaturedItemsSection
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        subtitle: 'Experience:'
-        text: |-
-          **Current**
-
-          * freelance @freelance.me
-
-          **2018-2021**
-
-          * fullstack at this startup
-
-          **2015**
-
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
-        styles:
-          self:
-            textAlign: left
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-      - type: FeaturedItem
-        subtitle: 'Education:'
-        text: |-
-          **2015-2018**
-
-          * ba computer sciense at a semi fancy school
-
-          **2014**
-
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
-        styles:
-          self:
-            textAlign: left
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-    columns: 2
-    spacingX: 60
-    spacingY: 60
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
+    subtitle: 'You can find me here:'
+    title: ''
   - type: DividerSection
     styles:
       self:
@@ -337,46 +242,27 @@ sections:
         borderStyle: solid
   - type: ContactSection
     backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
+    title: 'Let’s talk... '
     colors: colors-f
     form:
       type: FormBlock
       elementId: sign-up-form
       fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
+        - type: EmailFormControl
+          name: email-address
           label: Email
           hideLabel: true
-          placeholder: Email
-          isRequired: true
+          placeholder: your email address here
           width: full
-          type: EmailFormControl
-        - name: message
+          isRequired: false
+        - type: TextareaFormControl
+          name: message
           label: Message
           hideLabel: true
-          placeholder: Tell me about your project
-          isRequired: true
+          placeholder: your message here
           width: full
-          type: TextareaFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
           isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: Submit
       styles:
         submitLabel:
           textAlign: center
