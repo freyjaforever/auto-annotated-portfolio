@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Hana Golden
 colors: colors-a
 date: '2024-09-15'
-client: Awesome client
+client: ''
 description: Stripped-down art portfolio for illustrator
 featuredImage:
   type: ImageBlock
