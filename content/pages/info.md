@@ -131,7 +131,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Instagra
+            label: Instagram
             url: 'https://twitter.com/'
         styles:
           self:
