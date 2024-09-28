@@ -64,7 +64,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: ''
+    subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
         url: /images/Untitled.png
