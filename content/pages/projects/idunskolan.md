@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Idunskolan
 date: '2024-07-01'
-client: Awesome client
+client: Waldorf School
 description: Landing page and multiple info sections for a local swedish waldorf school
 featuredImage:
   type: ImageBlock
