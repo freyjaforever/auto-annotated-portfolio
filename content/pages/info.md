@@ -135,8 +135,6 @@ sections:
         label: Cargo
         url: ''
       - type: Label
-        label: Next.js
-      - type: Label
         label: Netlify
       - type: Label
         label: Pancakes
