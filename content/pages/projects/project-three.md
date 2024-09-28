@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Curated by SG
 colors: colors-a
 date: '2022-01-22'
-client: Awesome client
+client: Long Term Client
 description: >-
   Landing page, E-shop, and before and after pictures for a vintage furniture
   storefront
