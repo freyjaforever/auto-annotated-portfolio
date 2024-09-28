@@ -6,7 +6,7 @@ client: Waldorf School
 description: Landing page and multiple info sections for a local swedish waldorf school
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Screen Shot 2024-09-28 at 8.11.24 AM.png
   altText: Project thumbnail image
   caption: ''
   elementId: ''
