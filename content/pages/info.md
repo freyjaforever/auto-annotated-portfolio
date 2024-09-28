@@ -77,7 +77,7 @@ sections:
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
-        url: /images/logo4.svg
+        url: /images/Camp Lee copy.png
         altText: Logo four
         caption: Logo four
     spacing: 3
