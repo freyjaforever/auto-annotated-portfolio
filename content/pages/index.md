@@ -80,27 +80,4 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Projects
-  - type: TextSection
-    colors: colors-d
-    variant: variant-a
-    title: The Section Title
-    subtitle: The section subtitle
-    text: ''
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
 ---
