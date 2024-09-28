@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: AJDF
 date: '2016-05-03'
-client: Awesome client
+client: ''
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
