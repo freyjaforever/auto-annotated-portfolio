@@ -52,7 +52,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Hello I'm Freyja
-    subtitle: 'I’m a developer, digital artist, It consultant and creative problem solver'
+    subtitle: 'I’m a developer, digital artist, IT consultant and creative problem solver'
     styles:
       self:
         height: auto
