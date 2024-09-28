@@ -139,8 +139,7 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: |
-          \=
+        text: ''
         elementId: ''
         styles:
           self:
