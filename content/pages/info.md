@@ -342,7 +342,14 @@ sections:
     form:
       type: FormBlock
       elementId: sign-up-form
-      fields: []
+      fields:
+        - type: EmailFormControl
+          name: email-address
+          label: Name
+          hideLabel: false
+          placeholder: Your name
+          width: full
+          isRequired: false
       submitLabel: Submit
       styles:
         submitLabel:
