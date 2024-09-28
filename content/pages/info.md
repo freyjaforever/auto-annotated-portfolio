@@ -146,6 +146,9 @@ sections:
       - type: Label
         label: Adobe Suite
         url: ''
+      - type: Label
+        label: Blender
+        url: ''
   - type: DividerSection
     styles:
       self:
