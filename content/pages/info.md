@@ -140,7 +140,8 @@ sections:
         actions:
           - type: Link
             label: Telegram
-            url: 'https://www.linkedin.com/'
+            url: >-
+              https://signal.me/#eu/OAxv5TNsGMYOF8z6hqr_992SWcMX-zypVhkT7gXRQCQIzwsTA_dG04ki0UNJHd26
         styles:
           self:
             textAlign: left
