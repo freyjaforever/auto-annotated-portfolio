@@ -81,8 +81,7 @@ sections:
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+        url: /images/Screen Shot 2024-09-28 at 9.31.32 AM.png
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
