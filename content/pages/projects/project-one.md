@@ -14,4 +14,5 @@ media:
   url: /images/bg1.jpg
   altText: Project image
 ---
-Learn More: Visit[ Idunskolan.com](https://idunskolan.com/)
+Learn More: Visit [hanagolden.art](https://hanagolden.art/)
+
