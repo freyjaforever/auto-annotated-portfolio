@@ -152,6 +152,9 @@ sections:
       - type: Label
         label: Blender
         url: ''
+      - type: Label
+        label: Canva
+        url: ''
   - type: DividerSection
     styles:
       self:
