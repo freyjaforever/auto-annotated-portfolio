@@ -6,7 +6,7 @@ client: ''
 description: Portfolio and contact info for a muralist
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Screen Shot 2024-09-28 at 8.26.53 AM.png
   altText: Project thumbnail image
   caption: ''
   elementId: ''
