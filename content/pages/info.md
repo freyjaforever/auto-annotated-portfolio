@@ -123,7 +123,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: GitHub
+            label: Discord
             url: 'https://github.com/'
         styles:
           self:
