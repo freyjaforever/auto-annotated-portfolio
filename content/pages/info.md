@@ -139,7 +139,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Telegram
+            label: signal
             url: >-
               https://signal.me/#eu/OAxv5TNsGMYOF8z6hqr_992SWcMX-zypVhkT7gXRQCQIzwsTA_dG04ki0UNJHd26
         styles:
