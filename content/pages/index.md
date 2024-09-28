@@ -52,7 +52,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: ''
-    subtitle: ''
+    subtitle: 'I’m a developer, digital artist, It consultant and creative problem solver'
     styles:
       self:
         height: auto
