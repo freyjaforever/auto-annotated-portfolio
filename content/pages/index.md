@@ -51,7 +51,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: ''
+    title: Hello I'm Freyja
     subtitle: 'I’m a developer, digital artist, It consultant and creative problem solver'
     styles:
       self:
