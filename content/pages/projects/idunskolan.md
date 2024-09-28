@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Idunskolan
-date: ''
+date: '2024-05-01'
 client: Waldorf School
 description: Landing page and multiple info sections for a local swedish waldorf school
 featuredImage:
