@@ -132,6 +132,9 @@ sections:
       - type: Label
         label: SquareSpace
       - type: Label
+        label: Cargo
+        url: ''
+      - type: Label
         label: Next.js
       - type: Label
         label: Netlify
@@ -141,9 +144,6 @@ sections:
         label: C++
       - type: Label
         label: Swift
-      - type: Label
-        label: Cargo
-        url: ''
   - type: DividerSection
     styles:
       self:
