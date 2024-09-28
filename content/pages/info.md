@@ -124,7 +124,7 @@ sections:
         actions:
           - type: Link
             label: Discord
-            url: 'https://github.com/'
+            url: 'https://discord.gg/grrg8Wn7'
         styles:
           self:
             textAlign: left
