@@ -149,6 +149,9 @@ sections:
       - type: Label
         label: Blender
         url: ''
+      - type: Label
+        label: SEO
+        url: ''
   - type: DividerSection
     styles:
       self:
