@@ -61,7 +61,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: MediaGallerySection
-    colors: colors-f
+    colors: colors-e
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
