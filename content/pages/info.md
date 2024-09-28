@@ -143,6 +143,9 @@ sections:
       - type: Label
         label: SSL Security
         url: ''
+      - type: Label
+        label: Adobe Suite
+        url: ''
   - type: DividerSection
     styles:
       self:
