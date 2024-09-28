@@ -3,7 +3,7 @@ type: ProjectLayout
 title: AJDF
 date: '2016-05-03'
 client: ''
-description: 'Portfolio and '
+description: Portfolio and contact info for a muralist
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
