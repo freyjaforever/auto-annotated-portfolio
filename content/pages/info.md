@@ -134,6 +134,9 @@ sections:
       - type: Label
         label: Cargo
         url: ''
+      - type: Label
+        label: HTML5
+        url: ''
   - type: DividerSection
     styles:
       self:
