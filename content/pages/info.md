@@ -65,7 +65,7 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/idunskolan-logga.png
+        url: /images/Untitled.png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
