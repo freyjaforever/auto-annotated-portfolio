@@ -51,7 +51,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'I’m a developer, digital artist, It consultant and creative problem solver'
+    title: ''
     subtitle: ''
     styles:
       self:
