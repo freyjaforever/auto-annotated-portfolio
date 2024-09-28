@@ -26,3 +26,4 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
+Learn more by visiting [ajdf.us](https://www.ajdf.us/)
