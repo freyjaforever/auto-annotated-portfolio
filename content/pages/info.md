@@ -128,7 +128,7 @@ sections:
       - type: Label
         label: 'WEB 1, 2, 3'
       - type: Label
-        label: ''
+        label: Wordpress
       - type: Label
         label: Microsoft Office
       - type: Label
