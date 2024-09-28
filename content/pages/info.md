@@ -140,6 +140,9 @@ sections:
       - type: Label
         label: CSS
         url: ''
+      - type: Label
+        label: SSL Security
+        url: ''
   - type: DividerSection
     styles:
       self:
