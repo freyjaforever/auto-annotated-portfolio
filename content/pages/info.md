@@ -44,7 +44,7 @@ sections:
     type: HeroSection
     media:
       type: ImageBlock
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/Screen Shot 2024-03-04 at 12.02.34 PM.png
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
