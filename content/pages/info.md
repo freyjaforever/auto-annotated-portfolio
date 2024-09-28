@@ -371,7 +371,7 @@ sections:
           isRequired: true
           width: full
           type: TextareaFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: Submit
       styles:
         submitLabel:
           textAlign: center
