@@ -110,7 +110,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-    title: 'I worked with these folks:'
+    title: ''
   - type: DividerSection
     styles:
       self:
