@@ -14,9 +14,11 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      ## Hello I'm Freyja. I solve your tech problems for cheap. im like just a
-      girl whos around to answer questions and stuff. and keep your internet
-      presence squeaky clean and presentable.
+      ## Hello I'm Freyja. I solve your tech problems for cheap. i'm like just a
+      girl whos around to answer questions and stuff. 
+
+
+      And keep your internet presence squeaky clean and presentable.
 
     styles:
       self:
