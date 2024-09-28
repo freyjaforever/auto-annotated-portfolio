@@ -35,7 +35,7 @@ bottomSections:
       - type: Button
         label: Try it now
         altText: ''
-        url: www
+        url: 'https://idunskolan.com/'
         showIcon: true
         icon: arrowRight
         iconPosition: right
