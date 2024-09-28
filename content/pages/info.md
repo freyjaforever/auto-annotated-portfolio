@@ -130,7 +130,7 @@ sections:
       - type: Label
         label: Wordpress
       - type: Label
-        label: Microsoft Office
+        label: SquareSpace
       - type: Label
         label: Next.js
       - type: Label
