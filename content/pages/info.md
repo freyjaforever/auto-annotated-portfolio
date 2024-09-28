@@ -354,7 +354,7 @@ sections:
           name: message
           label: Message
           hideLabel: true
-          placeholder: Type your message here
+          placeholder: your message here
           width: full
           isRequired: false
       submitLabel: Submit
