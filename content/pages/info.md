@@ -73,7 +73,7 @@ sections:
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
-        url: /images/logo3.svg
+        url: /images/Screen Shot 2024-09-28 at 9.31.32 AM.png
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
