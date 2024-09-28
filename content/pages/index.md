@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     title: Hello I'm Freyja
     subtitle: 'I’m a developer, digital artist, IT consultant and creative problem solver'
     styles:
