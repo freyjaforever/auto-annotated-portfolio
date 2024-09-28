@@ -346,7 +346,7 @@ sections:
         - type: EmailFormControl
           name: email-address
           label: Email
-          hideLabel: false
+          hideLabel: true
           placeholder: your email address
           width: full
           isRequired: false
