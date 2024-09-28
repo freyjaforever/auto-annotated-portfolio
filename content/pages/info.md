@@ -246,7 +246,7 @@ sections:
     colors: colors-f
     form:
       type: FormBlock
-      elementId: sign-up-form
+      elementId: sign-up-form1
       fields:
         - type: EmailFormControl
           name: email-address
