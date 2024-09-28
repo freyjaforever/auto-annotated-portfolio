@@ -11,7 +11,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/Screen Shot 2024-09-27 at 4.11.06 PM.png
   altText: Project image
 ---
 Learn More: Visit [hanagolden.art](https://hanagolden.art/)
