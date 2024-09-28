@@ -85,7 +85,7 @@ sections:
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
-    spacing: 3
+    spacing: 23
     columns: 5
     aspectRatio: auto
     showCaption: false
