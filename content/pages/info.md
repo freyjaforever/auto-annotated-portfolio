@@ -149,7 +149,7 @@ sections:
             textAlign: left
         actions:
           - type: Link
-            label: Learn more
+            label: Tiktok
             altText: ''
             url: 'https://www.tiktok.com/@xo__freyja?_t=8q6Ikrjkp4Q&_r=1'
             showIcon: false
