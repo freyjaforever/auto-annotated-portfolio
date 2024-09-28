@@ -342,14 +342,7 @@ sections:
     form:
       type: FormBlock
       elementId: sign-up-form
-      fields:
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Tell me about your project
-          isRequired: true
-          width: full
-          type: TextareaFormControl
+      fields: []
       submitLabel: Submit
       styles:
         submitLabel:
