@@ -27,3 +27,4 @@ backgroundImage:
   opacity: 100
 bottomSections: []
 ---
+Learn more by visiting [Idunskolan.com](https://idunskolan.com/)
