@@ -136,15 +136,6 @@ sections:
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: signal
-            url: >-
-              https://signal.me/#eu/OAxv5TNsGMYOF8z6hqr_992SWcMX-zypVhkT7gXRQCQIzwsTA_dG04ki0UNJHd26
-        styles:
-          self:
-            textAlign: left
     columns: 3
     spacingX: 120
     spacingY: 0
