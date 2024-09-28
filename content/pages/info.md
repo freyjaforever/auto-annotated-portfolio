@@ -132,7 +132,7 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://twitter.com/'
+            url: 'https://instagram.com/freyjaacassi'
         styles:
           self:
             textAlign: left
