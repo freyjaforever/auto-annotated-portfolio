@@ -347,7 +347,7 @@ sections:
           name: email-address
           label: Email
           hideLabel: false
-          placeholder: Your name
+          placeholder: your email address
           width: full
           isRequired: false
       submitLabel: Submit
