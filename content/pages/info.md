@@ -137,6 +137,9 @@ sections:
       - type: Label
         label: HTML5
         url: ''
+      - type: Label
+        label: CSS
+        url: ''
   - type: DividerSection
     styles:
       self:
