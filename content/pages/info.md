@@ -157,7 +157,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-    subtitle: 'You can find me here:'
+    subtitle: ''
     title: 'You can find me here:'
   - type: DividerSection
     styles:
