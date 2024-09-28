@@ -134,8 +134,6 @@ sections:
       - type: Label
         label: Cargo
         url: ''
-      - type: Label
-        label: Pancakes
   - type: DividerSection
     styles:
       self:
