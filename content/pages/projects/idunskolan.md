@@ -33,7 +33,7 @@ bottomSections:
       any layout and any screen.
     actions:
       - type: Button
-        label: Try it now
+        label: Explore Idunskolan
         altText: ''
         url: 'https://idunskolan.com/'
         showIcon: true
