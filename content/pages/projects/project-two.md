@@ -16,3 +16,4 @@ media:
   url: /images/Screen Shot 2024-09-27 at 4.04.48 PM.png
   altText: Project image
 ---
+Learn more by visiting [jeffdanielphillips.com](https://www.jeffdanielphillips.com/)
