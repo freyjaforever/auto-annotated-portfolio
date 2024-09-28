@@ -121,18 +121,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
   - type: LabelsSection
     colors: colors-f
     subtitle: 'Skills:'
@@ -153,6 +141,18 @@ sections:
         label: C++
       - type: Label
         label: Swift
+  - type: DividerSection
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+        borderStyle: solid
   - type: FeaturedItemsSection
     colors: colors-f
     items:
