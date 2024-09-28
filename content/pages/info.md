@@ -147,6 +147,15 @@ sections:
         styles:
           self:
             textAlign: left
+        actions:
+          - type: Link
+            label: Learn more
+            altText: ''
+            url: 'https://www.tiktok.com/@xo__freyja?_t=8q6Ikrjkp4Q&_r=1'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
     columns: 3
     spacingX: 120
     spacingY: 0
