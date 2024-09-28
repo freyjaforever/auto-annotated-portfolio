@@ -35,7 +35,7 @@ bottomSections:
       - type: Button
         label: Try it now
         altText: ''
-        url: /
+        url: www
         showIcon: true
         icon: arrowRight
         iconPosition: right
