@@ -83,7 +83,7 @@ sections:
       - type: Button
         label: Learn more
         altText: ''
-        url: /about
+        url: /info
         showIcon: false
         icon: arrowRight
         iconPosition: right
