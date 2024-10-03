@@ -22,7 +22,7 @@ media:
 featuredImage:
   type: ImageBlock
   url: /images/Ajdf landing.png
-  altText: altText of the image
+  altText: Ajdf
   caption: Caption of the image
   elementId: ''
 ---
