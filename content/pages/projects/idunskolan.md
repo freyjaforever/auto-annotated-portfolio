@@ -24,7 +24,7 @@ media:
   type: ImageBlock
   url: /images/Idunskolan landing.png
   altText: Idunskolan
-  caption: Caption of the image
+  caption: Idunskolan
   elementId: ''
 ---
 Learn more by visiting [Idunskolan.com](https://idunskolan.com/)
