@@ -6,16 +6,10 @@ client: Waldorf School
 description: Landing page and multiple info sections for a local swedish waldorf school
 featuredImage:
   type: ImageBlock
-  url: /images/Screen Shot 2024-09-28 at 8.11.24 AM.png
   altText: Project thumbnail image
   caption: ''
   elementId: ''
-media:
-  type: ImageBlock
-  url: /images/Screen Shot 2024-09-28 at 8.11.24 AM.png
-  altText: Project image
-  caption: Caption of the image
-  elementId: ''
+  url: /images/Idunskolan landing.png
 addTitleSuffix: false
 colors: colors-a
 backgroundImage:
@@ -26,5 +20,11 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 bottomSections: []
+media:
+  type: ImageBlock
+  url: /images/Idunskolan landing.png
+  altText: Idunskolan
+  caption: Idunskolan
+  elementId: ''
 ---
 Learn more by visiting [Idunskolan.com](https://idunskolan.com/)
