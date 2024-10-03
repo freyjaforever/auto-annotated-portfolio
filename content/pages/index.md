@@ -89,4 +89,5 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: ''
+    title: Projects
 ---
