@@ -23,7 +23,7 @@ featuredImage:
   type: ImageBlock
   url: /images/Ajdf landing.png
   altText: Ajdf
-  caption: Caption of the image
+  caption: ajdf
   elementId: ''
 ---
 Learn more by visiting [ajdf.us](https://www.ajdf.us/)
