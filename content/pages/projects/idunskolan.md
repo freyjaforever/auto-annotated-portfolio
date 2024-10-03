@@ -23,7 +23,7 @@ bottomSections: []
 media:
   type: ImageBlock
   url: /images/Idunskolan landing.png
-  altText: altText of the image
+  altText: Idunskolan
   caption: Caption of the image
   elementId: ''
 ---
