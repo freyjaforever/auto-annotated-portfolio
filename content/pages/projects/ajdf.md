@@ -9,6 +9,7 @@ featuredImage:
   altText: Project thumbnail image
   caption: ''
   elementId: ''
+  url: /images/Screen Shot 2024-09-28 at 8.26.53 AM.png
 media:
   type: ImageBlock
   url: /images/Screen Shot 2024-09-28 at 8.26.53 AM.png
