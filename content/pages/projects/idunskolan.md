@@ -10,12 +10,6 @@ featuredImage:
   caption: ''
   elementId: ''
   url: /images/Idunskolan landing.png
-media:
-  type: ImageBlock
-  url: /images/Screen Shot 2024-09-28 at 8.11.24 AM.png
-  altText: Project image
-  caption: Caption of the image
-  elementId: ''
 addTitleSuffix: false
 colors: colors-a
 backgroundImage:
